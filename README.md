@@ -25,3 +25,5 @@ library( devtools )
 devtools::build(vignettes = F)  
 devtools::install()  
 And do the same for folder 'DFPmcmc'.
+
+In the 'sample code' folder, we also provide a code demo file (Rmd and html output), as well as R files to run simulations in the manuscript. 
