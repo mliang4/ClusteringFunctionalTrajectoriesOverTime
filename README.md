@@ -2,7 +2,7 @@
 
 This folder contains the code of the Rcpp package hDFPmcmc, DFPmcmc, and other R files associated with experiments in the manuscript:
 
-A Bayesian Nonparametric Approach for Clustering Functional Trajectories over Time in Smoking Cessation Studies
+A Bayesian Nonparametric Approach for Clustering Functional Trajectories over Time
 
 by Mingrui Liang, Matthew D. Koslovsky, Emily T. Hebert, Darla E. Kendzor and Marina Vannucci
 
